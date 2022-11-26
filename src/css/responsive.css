@@ -4,8 +4,9 @@
    }
 
    section.banner {
-      background-size: contain;
-      max-height: 20vh;
+      max-height: 25vh;
+      background-position: left center;
+      
    }
 
    .about {
@@ -26,7 +27,7 @@
    .about .about-banner {
       height: 32vh;
       background-repeat: no-repeat;
-      background-size: contain;
+      
    }
 
    .projects .project-text {
